@@ -38,7 +38,7 @@
 	}
 
 	main {
-		background-image: url('./assets/forest.jpg');
+		background-image: url('./static/forest.jpg');
 		background-size: cover;
 		background-position: center;
 		background-repeat: no-repeat;

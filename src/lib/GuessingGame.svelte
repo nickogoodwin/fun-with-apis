@@ -1,8 +1,10 @@
 <script>
+	import suitsImage from '../static/suits.png';
 	import axios from 'axios';
 	import { onMount } from 'svelte';
 
-	let src = '../src/assets/suits.png';
+	let src = suitsImage;
+
 	let playing = false,
 		guessing = false,
 		correctGuess = false;

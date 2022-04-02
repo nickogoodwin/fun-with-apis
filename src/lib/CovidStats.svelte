@@ -105,14 +105,3 @@
 		</p>
 	</div>
 </div>
-
-<style>
-	.covid-stats {
-		margin: 0.5em;
-		border: 1px solid purple;
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
-	}
-</style>
