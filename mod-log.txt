@@ -1,0 +1,19 @@
+Nicko Goodwin
+
+Created on 3/30/2022
+
+3/30/2022
+    -prototyped <InflationCalculatorder>
+    -prototyped <Weather>
+    -prototyped <CovidStats>
+
+    -all api interfaces are working so far;
+
+3/31/2022
+    -prototyped <Slapjack>
+    -<Slapjack> has now become <GuessingGame> because there's a whole "computer opponent" factor that I can't quite figure out right now
+
+4/01/2022
+    -finished <GuessingGame>
+    -prototyped <Advice>
+    -styling nad finishing touches
